@@ -11,4 +11,4 @@ Para especificar qué <i>apli</i> se activará cuando llegue una invocación a u
 
 ## Entrega
 
-Este ejercicio no requiere de ser entregado.
+Este ejercicio no ha de ser entregado.
